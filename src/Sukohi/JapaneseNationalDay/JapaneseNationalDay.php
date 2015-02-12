@@ -9,7 +9,7 @@ class JapaneseNationalDay {
 			$year = date('Y');
 			
 		}
-		echo $year;
+		
 		return \Cache::rememberForever('japanese-national-days-'. $year, function() use($year) {
 			
 			$national_days = [];
