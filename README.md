@@ -2,6 +2,9 @@ JapaneseNationalDay
 =====
 PHP class for Label to manage Japanese national days.
 
+**Note:**
+This package was integrated into [Wafu](https://github.com/SUKOHI/Wafu).
+
 Installation&setting for Laravel
 ====
 
